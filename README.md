@@ -12,7 +12,7 @@
 
 Install the dependancies
 
-```$ npm install```
+```$ npm install --legacy-peer-deps```
 
 **Dev Server**
 
