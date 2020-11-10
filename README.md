@@ -28,12 +28,15 @@ Builds a dev version to run in the server
 
 ```$ npm run dev```
 
+Creates a build folder with compilied index.html, bundle.js, bundle.css
+
 **Build**
 
 Builds a production build and complies all the HTML, JS, CSS
 
 ```$ npm run build```
 
+Compilies all HTML, JS, CSS
 
 # More Info
 
