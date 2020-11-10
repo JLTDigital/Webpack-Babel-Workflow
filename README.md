@@ -14,6 +14,8 @@ Install the dependancies
 
 ```$ npm install --legacy-peer-deps```
 
+--legacy-peer-deps is required due to enable the install of webpack cli 3.3.10 due to appart compatibilty issues with webpack cli V4 and the dev server. 
+
 **Dev Server**
 
 To run the dev server - Runs on localhost: 8080
