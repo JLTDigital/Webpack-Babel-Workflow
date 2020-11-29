@@ -21,7 +21,6 @@ module.exports = {
       {
         test: /\.css$/i,
         use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader'],
-        //Use Dart Sass - in the terminal use [sass --watch ./src/main.scss ./src/main.css]
       },
       {
         test: /\.(png|jpe?g|gif)$/i,
