@@ -26,8 +26,6 @@ Builds a production build and complies all the HTML, JS, CSS
 
 ```$ npm run build```
 
-Compilies all HTML, JS, CSS
-
 **Sass**
 
 Runs the compiler and compiles the main.scss to main.css
